@@ -46,8 +46,8 @@ class Simple_Calc:
         divides the first argument by the second
 
         Attr:
-        a : 
-        b :
+        a : dividend
+        b : divisor
         '''
         try:
             j = a / b
