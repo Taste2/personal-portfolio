@@ -1,14 +1,18 @@
-## Simple Calculator
-- This project focuses on building a simple model of a calculator: Simple_Calc
+# Simple Calculator
+- This project focuses on building a simple calculator: s_calculator
 
-- The class has the following methods:
+- The calculator has the following methods:
 
-    - add_ : adds all arguments passed
+    - add_(*args) : adds all arguments passed
 
-    - diff_: finds the difference of all arguments
+    - diff_(*args): finds the difference of all arguments
     
-    - div_ : divides the first argument by the second
+    - div_(a, b) : divides the first argument by the second
 
-    - multi_:finds the product of all arguments
+    - multi_(*args):finds the product of all arguments
 
-    - aver_ : finds the average of all arguments passed
+    - aver_(*args) : finds the average of all arguments passed
+
+    - exp_(a, b) : calculates the exponent of first argument by second argument
+
+    - sq_root(a) : calculates square root of argument
