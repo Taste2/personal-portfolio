@@ -1,2 +1,2 @@
 ## Weather update
-This program fetches weather information about Kumasi, a city in Ghana
+This program fetches weather information of major cities in Ghana using open-meteo API
